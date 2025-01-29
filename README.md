@@ -9,7 +9,8 @@
 </div>
 
  <div id="header" align="left">
-
+   ___
+   
 ### :man_technologist: Sobre mí :
 
 
@@ -26,4 +27,18 @@ Apasionado por la tecnología y aprender cosas nuevas <img src="https://github.c
 </a> o por  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="15px" />
 </a>
-   
+
+   ___
+  
+ ### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+ <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+    <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+    <img src="https://img.shields.io/badge/SAP%20MM-3776AB?style=for-the-badge&logo=SAP&logoColor=white" alt="SAP MM"/>
+  </a>
+  
+</div>
