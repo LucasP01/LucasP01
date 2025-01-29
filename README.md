@@ -8,8 +8,9 @@
 <h1 align="center"> Hola, soy Lucas Paleo👋</h1>
 </div>
 
+  ___
+
  <div id="header" align="left">
-   ___
    
 ### :man_technologist: Sobre mí :
 
