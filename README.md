@@ -43,3 +43,36 @@ Apasionado por la tecnología y aprender cosas nuevas <img src="https://github.c
   </a>
   
 </div>
+
+  ___
+## Proyectos Destacados
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Tractchun - Dashboard</h3>
+<div align="center">
+<a href="https://github.com/LucasP01/Reporte-Tractchun" target="_blank"><img src="https://github.com/user-attachments/assets/579e8b86-7c88-4797-8c50-f064f5cea5f6" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/LucasP01/Reporte-Tractchun" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</p>
+<p>Compañía de la industria manufacturera que cuentan con Agentes IT que dan soporte a Tickets para todo lo referente a las tecnologías de oficina realizado con Power BI.</p>
+</div>
+                                                                                    
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">IOWA LIQUOR - POWER BI</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="CODIGO PROYECTO 2" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</p>
+</p>Explicación Proyecto IOWA LIQUOR.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
