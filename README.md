@@ -51,7 +51,7 @@ Apasionado por la tecnología y aprender cosas nuevas <img src="https://github.c
 <td width="50%">
 <h3 align="center">TRACTCHUN - POWER BI</h3>
 <div align="center">
-<a href="https://github.com/LucasP01/Reporte-Tractchun" target="_blank"><img src="https://github.com/user-attachments/assets/579e8b86-7c88-4797-8c50-f064f5cea5f6" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/LucasP01/Reporte-Tractchun" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1iV8thwP2UNkA1fCZ7Rkme_qrz9I3iJzL" width="400" alt="Dashboard Tractchun"></a>
 <p>
 <a href="https://github.com/LucasP01/Reporte-Tractchun" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -64,7 +64,7 @@ Apasionado por la tecnología y aprender cosas nuevas <img src="https://github.c
 <td width="50%">
 <h3 align="center">IOWA LIQUOR - POWER BI</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1pDLucQd6-uslehbpdM98TnEOEX8HhQvq" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/LucasP01/Reporte-Iowa-Liquor" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1pDLucQd6-uslehbpdM98TnEOEX8HhQvq" width="400" alt="Dashboard Iowa"></a>
 <br>
 <p>
 <a href="CODIGO PROYECTO 2" target="_blank">
