@@ -44,7 +44,9 @@ Apasionado por la tecnología y aprender cosas nuevas <img src="https://github.c
   
 </div>
 
-  ___
+
+___
+
 ## Proyectos Destacados
 <table>
 <tr>
@@ -58,7 +60,6 @@ Apasionado por la tecnología y aprender cosas nuevas <img src="https://github.c
 </p>
 <p>Compañía de la industria manufacturera que cuentan con Agentes IT que dan soporte a Tickets para todo lo referente a las tecnologías de oficina realizado con Power BI.</p>
 </div>
-                                                                                    
 </td>
 
 <td width="50%">
@@ -72,6 +73,34 @@ Apasionado por la tecnología y aprender cosas nuevas <img src="https://github.c
 </p>
 </p>Creación de dashboard que permite analizar las ventas de licor en el estado de Iowa, Estados Unidos. Esto proporciona una visión clara del consumo, productos mas vendidos, etc.</p>
 </div>                                                             
-</table>                                                                                 
+</td>
+</tr>
+
+<!-- Nueva fila para los proyectos adicionales -->
+<tr>
+<td width="50%">
+<h3 align="center">Classic Models - MySQL</h3>
+<div align="center">
+<a href="https://github.com/LucasP01/Classicmodels" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Om8r-2ZoqHtuU1baPcHLX-4V83oUix8i" width="300" alt="Classic Models BBDD"></a>
+<p>
+<a href="https://github.com/LucasP01/Classicmodels" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</p>
+<p>La base de datos ClassicModels simula una tienda de autos, con diversas tablas que almacenan informacion sobre productos, clientes, empleados, ordenes y pagos.</p>
 </div>
-<br>
+</td>
+
+<td width="50%">
+<h3 align="center">Nuevo Proyecto Derecha</h3>
+<div align="center">
+<a href="URL_DEL_REPOSITORIO_DERECHA" target="_blank"><img src="URL_IMAGEN_PROYECTO_DERECHA" width="400" alt="Nuevo Proyecto Derecha"></a>
+<p>
+<a href="URL_DEL_REPOSITORIO_DERECHA" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</p>
+</p>Descripción del nuevo proyecto a la derecha.</p>
+</div>
+</td>
+</tr>
+</table>
+
