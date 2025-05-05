@@ -91,9 +91,9 @@ ___
 </td>
 
 <td width="50%">
-<h3 align="center">Nuevo Proyecto Derecha</h3>
+<h3 align="center">"Proximo proyecto...👷🏻"</h3>
 <div align="center">
-<a href="URL_DEL_REPOSITORIO_DERECHA" target="_blank"><img src="URL_IMAGEN_PROYECTO_DERECHA" width="400" alt="Nuevo Proyecto Derecha"></a>
+<a href="URL_DEL_REPOSITORIO_DERECHA" target="_blank"><img src="..." width="400" alt="Proximamente🔨"></a>
 <p>
 <a href="URL_DEL_REPOSITORIO_DERECHA" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
