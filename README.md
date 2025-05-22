@@ -25,7 +25,7 @@ Apasionado por la tecnología y aprender cosas nuevas <img src="https://github.c
 
 * 📱 ¿Queres contactar conmigo? Escribime al correo  <a href="lucas01andres@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" width="15px"> 
-</a> o por  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+</a> o por  <a href="https://www.linkedin.com/in/lucas-paleo/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="15px" />
 </a>
 
