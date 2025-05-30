@@ -91,14 +91,14 @@ ___
 </td>
 
 <td width="50%">
-<h3 align="center">"Proximo proyecto...👷🏻"</h3>
+<h3 align="center">Classic Models</h3>
 <div align="center">
-<a href="URL_DEL_REPOSITORIO_DERECHA" target="_blank"><img src="..." width="400" alt="Proximamente🔨"></a>
+<a href="https://github.com/LucasP01/Classic-Models---PBI" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1V67mI3yyDN77X5Etfnf2NGavJ9L548-C" width="400" alt="Proximamente🔨"></a>
 <p>
-<a href="URL_DEL_REPOSITORIO_DERECHA" target="_blank">
+<a href="https://github.com/LucasP01/Classic-Models---PBI" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p>Descripción del nuevo proyecto a la derecha.</p>
+</p>Classic Models es una empresa que comercializa automóviles clásicos a escala. Cuenta con múltiples oficinas, una amplia gama de productos y una red internacional de clientes.</p>
 </div>
 </td>
 </tr>
