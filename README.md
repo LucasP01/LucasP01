@@ -91,7 +91,7 @@ ___
 </td>
 
 <td width="50%">
-<h3 align="center">Classic Models</h3>
+<h3 align="center">CLASSIC MODELS - POWER BI</h3>
 <div align="center">
 <a href="https://github.com/LucasP01/Classic-Models---PBI" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1V67mI3yyDN77X5Etfnf2NGavJ9L548-C" width="400" alt="Proximamente🔨"></a>
 <p>
